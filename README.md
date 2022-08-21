@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagtaydenizhan" alt="cagtaydenizhan" /></a> </p>
 
-- 🔭 I’m currently working on [ATMOtomasyonu](https://github.com/CagtayDenizhan/AtmOtomasyonu)
+- 🔭 I’m currently working on [PHP]
 
 - 📫 How to reach me **cgty8116@gmail.com**
 
