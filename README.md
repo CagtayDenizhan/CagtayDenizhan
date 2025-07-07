@@ -33,8 +33,8 @@ https://carinfo.com.tr/
 
 ## 📫 Bana Ulaşın
 
-- 💼 [LinkedIn]:([https://github.com/CagtayDenizhan/CagtayDenizhan])
-- 🅾 [Instagram)] ([https://github.com/CagtayDenizhan/CagtayDenizhan])
+- 💼 [LinkedIn]:([https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-denizhan-98b7072])
+- 🅾 [Instagram)] ([https://instagram.com/cagataydenizhan])
 - 📧 E-posta: cgty8116@gmail.com
 
 ---
