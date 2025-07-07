@@ -33,7 +33,7 @@ https://carinfo.com.tr/
 
 ## 📫 Bana Ulaşın
 
-- 💼 [LinkedIn]([https://linkedin.com/in/kullanici-adin](https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-denizhan-98b707216/))
+- 💼 [LinkedIn](Link:[[https://linkedin.com/in/kullanici-adin](https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-denizhan-98b707216/)0])
 - 🅾 [Instagram)]([https://seninsiten.com](https://www.instagram.com/cagataydenizhan/))
 - 📧 E-posta: cgty8116@gmail.com
 
