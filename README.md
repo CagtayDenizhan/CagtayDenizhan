@@ -21,10 +21,10 @@ Aşağıda birkaç önemli projemi inceleyebilirsiniz:
 
 
 
-🔗 [Wedding QR]([proje-linki](https://weddingqr.tr/))
+🔗 [Wedding QR]([https://weddingqr.tr/])
 Detaylı açıklama web sitesinde mevcut, kısaca; Düğününüzde çekilen fotoğrafları paylaşmanın kolay ve modern yolu.
 
-🔗 [Car Info]([[proje-linki](https://carinfo.com.tr/)])
+🔗 [Car Info]([https://weddingqr.tr/])
 Araçların camına yapıştırılan dijital numaratör, QR okutulduğunda size özel sayfaya yönlendirilip numaranıza tek tık ile erişim sağlayabilir veya hazır şablon ile SMS aracılığıyla tarafınıza ulaşabilir.
 
 ---
